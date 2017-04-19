@@ -1,1 +1,2 @@
-## This is my first static blog that I created at DigitalCraft's Meetup in April 2017. 
+## First Static Blog 
+This is my first static blog that I created at DigitalCraft's Meetup in April 2017. Created this blog from a [Static Site Generator](https://www.staticgen.com/) utilizing [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/). Taught by [Paul Bailey](http://www.digitalcrafts.com/blog/meet-paul-bailey-our-newest-immersive-instructor-houston) Here is the [deck](https://dc-codecamp.herokuapp.com/course/talks/static-site-generators.slides.md#1). Static site generators basically write the content to flat files then generate and publish only when there are changes in static HTML files. 
